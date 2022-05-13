@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "f64f6747-8548-46d4-ba1a-08d6bdb096ed": {
+      "ProjectGuid": "f64f6747-8548-46d4-ba1a-08d6bdb096ed",
+      "DisplayName": "PlatformTests",
+      "ColorIndex": 0
+    },
+    "012e574b-bb87-4f87-81bd-414c3032c669": {
+      "ProjectGuid": "012e574b-bb87-4f87-81bd-414c3032c669",
+      "DisplayName": "PlatformService",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
